@@ -26,8 +26,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+config.py
 .DS_Store
+ETL_create_databasex.ipynb
+Movies-ETL.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
